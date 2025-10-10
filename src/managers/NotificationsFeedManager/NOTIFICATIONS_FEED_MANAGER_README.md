@@ -81,3 +81,5 @@ These are updated in real-time as the store changes.
 - [ToastManager](../ToastManager): Manages toast notifications and coordinates with the feed.
 - [TransactionsHistoryController](../../controllers/TransactionsHistoryController/TransactionsHistoryController.ts): Used to fetch historical transaction data.
 - [MvxNotificationsFeed](https://github.com/multiversx/mx-sdk-dapp-ui): The UI component rendered by the manager.
+
+<!-- Auto-update: 2025-10-10T17:29:01.162983 -->
