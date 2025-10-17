@@ -126,3 +126,5 @@ type UnlockPanelManagerInitParamsType = {
 - [ProviderFactory](../providers/ProviderFactory.ts) for programmatic login.
 - [LogoutManager](../LogoutManager/LogoutManager.ts) for handling logout and native auth expiry.
 - [README.md](../../README.md) for more usage patterns and configuration.
+
+<!-- Auto-update: 2025-10-17T09:48:48.288011 -->
